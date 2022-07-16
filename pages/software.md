@@ -48,7 +48,7 @@ A tool for designing customized sgRNA libray against user input gene list.
 Sequence Scan for CRISPR gRNA efficiency.
 
 ### ChIP-Seq and Epigenetics Analysis
-- [**LISA web**](http://lisa.cistrome.org/) &nbsp; [**LISA command line**](https://github.com/liulab-dfci/lisa2) &nbsp; 
+- <b>LISA</b> [**web**](http://lisa.cistrome.org/) &nbsp; [**command line**](https://github.com/liulab-dfci/lisa2) &nbsp; 
 leverages public ChIP-seq and chromatin accessibiity profiles in CistromeDB to discover the key transcription factors and chromatin regulators from user-provided differential expression gene list. 
 - [**Cistrome-GO**](http://go.cistrome.org/) &nbsp;
 Cistrome-GO is a webserver for functional enrichment analysis of transcription factor ChIP-seq peaks.

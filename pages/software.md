@@ -15,7 +15,7 @@ permalink: /software/
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
 
 ### Cancer Immunotherapy
-- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp; [[**TIMER2 backup**](http://timer.comp-genomics.org/) &nbsp; 
+- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp; [[**TIMER2 backup**]](http://timer.comp-genomics.org/) &nbsp; 
 Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; ([tutorial video](https://drive.google.com/file/d/1g_CKX8zctjWvRbEJa1Ec_DCrEzfzpJxN/view?usp=sharing)) 
 is a computational algorithm that can extract TCR/BCR immune repertoires from tumor bulk or single cell RNA-seq data. 
@@ -48,7 +48,7 @@ A tool for designing customized sgRNA libray against user input gene list.
 Sequence Scan for CRISPR gRNA efficiency.
 
 ### ChIP-Seq and Epigenetics Analysis
-- [**LISA**](http://lisa.cistrome.org/) &nbsp;
+- [**LISA web**](http://lisa.cistrome.org/) &nbsp; [**LISA command line**](https://github.com/liulab-dfci/lisa2) &nbsp; 
 leverages public ChIP-seq and chromatin accessibiity profiles in CistromeDB to discover the key transcription factors and chromatin regulators from user-provided differential expression gene list. 
 - [**Cistrome-GO**](http://go.cistrome.org/) &nbsp;
 Cistrome-GO is a webserver for functional enrichment analysis of transcription factor ChIP-seq peaks.

@@ -15,7 +15,7 @@ permalink: /software/
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
 
 ### Cancer Immunotherapy
-- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp;
+- [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and latest version [**TIMER2**](http://timer.cistrome.org/) &nbsp; [[**TIMER2 backup**](http://timer.comp-genomics.org/) &nbsp; 
 Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
 - [**TRUST**](https://bitbucket.org/liulab/trust/) &nbsp; and latest version [**TRUST4**](https://github.com/liulab-dfci/TRUST4) &nbsp; ([tutorial video](https://drive.google.com/file/d/1g_CKX8zctjWvRbEJa1Ec_DCrEzfzpJxN/view?usp=sharing)) 
 is a computational algorithm that can extract TCR/BCR immune repertoires from tumor bulk or single cell RNA-seq data. 

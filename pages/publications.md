@@ -41,7 +41,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Wang X#, Tokheim C, Gu SS, Wang B, Tang Q, Li Y, Traugh N, Zeng Z, Zhang Y, Li Z, Shang B, Fu J, Xiao T, Li W, Meyer CA, Chu J, Jiang P, Cejas P, Lim K, Long H, Brown M\*, **Liu XS**\*. 2021. In vivo CRISPR screens identify the E3 ligase Cop1 as a modulator of macrophage infiltration and cancer immunotherapy target. Cell 184(21):5357-5374.<br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34582788) 
 [[Full Paper]](/resources/publications/Cell184_5357.pdf)
-- Zeng Z#, Wong C#, Yang L#, Ouardaoui N, Li D, Zhang W, Gu SS, Zhang Y, Liu Y, Wang Z, Fu J, Zhou L, Zhang B, Kim S, Yates KB, Brown M, Freeman GJ, Uppaluri R, Manguso, **Liu XS**. 2021. TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response. Nuc Acids Res. Epub ahead of print.<br>
+- Zeng Z#, Wong C#, Yang L#, Ouardaoui N, Li D, Zhang W, Gu SS, Zhang Y, Liu Y, Wang Z, Fu J, Zhou L, Zhang B, Kim S, Yates KB, Brown M, Freeman GJ, Uppaluri R, Manguso, **Liu XS**. 2021. TISMO: syngeneic mouse tumor database to model tumor immunity and immunotherapy response. Nuc Acids Res. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34534350)
 [[Full Paper]](/resources/publications/NucAcidRes_1_2021.pdf)
 - Song L#, Cohen D, Ouyang Z, Cao Y, Hu X, **Liu XS**. 2021. TRUST4: immune repertoire reconstruction from bulk and single-cell RNA-seq data. Nat Methods 18:627-630.<br>
@@ -56,7 +56,7 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/33567269)
 [[Full Paper]](/resources/publications/MolCell81_1.pdf)
 [[Code and Documentation]](https://deepdegron.readthedocs.io/en/latest/index.html)
-- Qiu X, Feit AS, Feiglin A, Xie Y, Taing L, Perkins J, Gu S, Li Y, Cejas P, Zhou N, Jeselsohn R, Brown M, **Liu XS**, Long HW. 2021. COBRA: Containerized bioinformatics workflow for reproducible ChIP/ATAC-seq analysis. Genomics Proteomics Bioinformatics. Epub ahead of print.<br>
+- Qiu X, Feit AS, Feiglin A, Xie Y, Taing L, Perkins J, Gu S, Li Y, Cejas P, Zhou N, Jeselsohn R, Brown M, **Liu XS**, Long HW. 2021. COBRA: Containerized bioinformatics workflow for reproducible ChIP/ATAC-seq analysis. Genomics Proteomics Bioinformatics. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/34284136)
 [[Full Paper]](https://www.sciencedirect.com/science/article/pii/S1672022921001546)
 - Taing L#, Bai G#, Cousins C#, Cejas P, Oiu X, Herbert ZT, Brown M, Meyer CA, **Liu XS**, Long HW\*, Tang M\*. 2021. CHIPS: A snakemake pipeline for quality control and reproducible processing of chromatin profiling data (version 1; peer review: awaiting peer review). F1000 Rsch 10:517.<br>

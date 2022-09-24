@@ -12,6 +12,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2022
+- Lynch AW#, Theodoris CV#, Long HW, Brown M, Liu XS*, Meyer CA*. 2022. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods. 19(9):1097-1108. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36068320)
 - Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, Liu XS. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35605261)
 - Choi YS, Erlich TH, von Franque M, Rachmin I, Flesher JL, Schiferle EB, Zhang Y, Pereira da Silva M, Jiang A, Dobry AS, Su M, Germana S, Lacher S, Freund O, Feder E, Cortez JL, Ryu S, Babila Propp T, Samuels YL, Zakka LR, Azin M, Burd CE, Sharpless NE, Liu XS, Meyer C, Austen WG Jr, Bojovic B, Cetrulo CL Jr, Mihm MC, Hoon DS, Demehri S, Hawryluk EB, Fisher DE. 2022. Topical therapy for regression and melanoma prevention of congenital giant nevi. Cell. 185(12):2071-2085.e12. <br>

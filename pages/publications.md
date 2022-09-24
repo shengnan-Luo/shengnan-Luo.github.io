@@ -12,6 +12,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2022
+- Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, Liu XS. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35605261)
 - Choi YS, Erlich TH, von Franque M, Rachmin I, Flesher JL, Schiferle EB, Zhang Y, Pereira da Silva M, Jiang A, Dobry AS, Su M, Germana S, Lacher S, Freund O, Feder E, Cortez JL, Ryu S, Babila Propp T, Samuels YL, Zakka LR, Azin M, Burd CE, Sharpless NE, Liu XS, Meyer C, Austen WG Jr, Bojovic B, Cetrulo CL Jr, Mihm MC, Hoon DS, Demehri S, Hawryluk EB, Fisher DE. 2022. Topical therapy for regression and melanoma prevention of congenital giant nevi. Cell. 185(12):2071-2085.e12. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35561684)
 - Aubrey BJ, Cutler JA, Bourgeois W, Donovan KA, Gu S, Hatton C, Perlee S, Perner F, Rahnamoun H, Theall ACP, Henrich JA, Zhu Q, Nowak RP, Kim YJ, Parvin S, Cremer A, Olsen SN, Eleuteri NA, Pikman Y, McGeehan GM, Stegmaier K, Letai A, Fischer ES, Liu XS, Armstrong SA. 2022. IKAROS and MENIN coordinate therapeutically actionable leukemogenic gene expression in MLL-r acute myeloid leukemia. Nat Cancer. 3(5):595-613. <br>

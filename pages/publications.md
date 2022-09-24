@@ -12,20 +12,19 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2022
-- Lynch AW#, Theodoris CV#, Long HW, Brown M, Liu XS*, Meyer CA*. 2022. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods. 19(9):1097-1108. <br>
+- Lynch AW#, Theodoris CV#, Long HW, Brown M, **Liu XS**\*, Meyer CA*. 2022. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods. 19(9):1097-1108. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36068320)
-- Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, Liu XS. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
+- Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, **Liu XS**. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35605261)
-- Choi YS, Erlich TH, von Franque M, Rachmin I, Flesher JL, Schiferle EB, Zhang Y, Pereira da Silva M, Jiang A, Dobry AS, Su M, Germana S, Lacher S, Freund O, Feder E, Cortez JL, Ryu S, Babila Propp T, Samuels YL, Zakka LR, Azin M, Burd CE, Sharpless NE, Liu XS, Meyer C, Austen WG Jr, Bojovic B, Cetrulo CL Jr, Mihm MC, Hoon DS, Demehri S, Hawryluk EB, Fisher DE. 2022. Topical therapy for regression and melanoma prevention of congenital giant nevi. Cell. 185(12):2071-2085.e12. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35561684)
-- Aubrey BJ, Cutler JA, Bourgeois W, Donovan KA, Gu S, Hatton C, Perlee S, Perner F, Rahnamoun H, Theall ACP, Henrich JA, Zhu Q, Nowak RP, Kim YJ, Parvin S, Cremer A, Olsen SN, Eleuteri NA, Pikman Y, McGeehan GM, Stegmaier K, Letai A, Fischer ES, Liu XS, Armstrong SA. 2022. IKAROS and MENIN coordinate therapeutically actionable leukemogenic gene expression in MLL-r acute myeloid leukemia. Nat Cancer. 3(5):595-613. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35534777)
-- Obradovic A, Graves D, Korrer M, Wang Y, Roy S, Naveed A, Xu Y, Luginbuhl A, Curry J, Gibson M, Idrees K, Hurley P, Jiang P, Liu XS, Uppaluri R, Drake CG, Califano A, Kim YJ. 2022. Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict Immunotherapy Response in Head and Neck Cancer. Clin Cancer Res. 28(10):2094-2109. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35262677)
 - Liao Y#, Chen CH#, Xiao T, Peña Avalos B, Dray EV, Cai C, Gao S, Shah N, Zhang Z, Feit A, Xue P, Liu Z, Yang M, Ji HL, Xu H, Li W, Mei X, Pierre RS, Shu S, Fei T, Duarte M, Xhao J, Badner JE, Polyak K, Kantoff PW, Long H, Balk SP, **Liu XS**\*, Brown M\*, Xu K\*. 2022. Inhibition of EZH2 transactivation function sensitizes solid tumors to genotoxic stress. Proc Natl Acad Sci USA. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35031563)
 [[Full Paper]](/resources/publications/PNAS119_2022.pdf)
-- Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. <br>
+- Choi YS, Erlich TH, von Franque M, Rachmin I, Flesher JL, Schiferle EB, Zhang Y, Pereira da Silva M, Jiang A, Dobry AS, Su M, Germana S, Lacher S, Freund O, Feder E, Cortez JL, Ryu S, Babila Propp T, Samuels YL, Zakka LR, Azin M, Burd CE, Sharpless NE, **Liu XS**, Meyer C, Austen WG Jr, Bojovic B, Cetrulo CL Jr, Mihm MC, Hoon DS, Demehri S, Hawryluk EB, Fisher DE. 2022. Topical therapy for regression and melanoma prevention of congenital giant nevi. Cell. 185(12):2071-2085.e12. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35561684)
+- Aubrey BJ, Cutler JA, Bourgeois W, Donovan KA, Gu S, Hatton C, Perlee S, Perner F, Rahnamoun H, Theall ACP, Henrich JA, Zhu Q, Nowak RP, Kim YJ, Parvin S, Cremer A, Olsen SN, Eleuteri NA, Pikman Y, McGeehan GM, Stegmaier K, Letai A, Fischer ES, **Liu XS**, Armstrong SA. 2022. IKAROS and MENIN coordinate therapeutically actionable leukemogenic gene expression in MLL-r acute myeloid leukemia. Nat Cancer. 3(5):595-613. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35534777)
+- Obradovic A, Graves D, Korrer M, Wang Y, Roy S, Naveed A, Xu Y, Luginbuhl A, Curry J, Gibson M, Idrees K, Hurley P, Jiang P, **Liu XS**, Uppaluri R, Drake CG, Califano A, Kim YJ. 2022. Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict Immunotherapy Response in Head and Neck Cancer. Clin Cancer Res. 28(10):2094-2109. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35262677)- Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35058328)
 [[Full Paper]](/resources/publications/Zhou_JITC_2022.pdf)
 

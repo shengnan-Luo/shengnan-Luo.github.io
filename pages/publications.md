@@ -24,7 +24,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 - Aubrey BJ, Cutler JA, Bourgeois W, Donovan KA, Gu S, Hatton C, Perlee S, Perner F, Rahnamoun H, Theall ACP, Henrich JA, Zhu Q, Nowak RP, Kim YJ, Parvin S, Cremer A, Olsen SN, Eleuteri NA, Pikman Y, McGeehan GM, Stegmaier K, Letai A, Fischer ES, **Liu XS**, Armstrong SA. 2022. IKAROS and MENIN coordinate therapeutically actionable leukemogenic gene expression in MLL-r acute myeloid leukemia. Nat Cancer. 3(5):595-613. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35534777)
 - Obradovic A, Graves D, Korrer M, Wang Y, Roy S, Naveed A, Xu Y, Luginbuhl A, Curry J, Gibson M, Idrees K, Hurley P, Jiang P, **Liu XS**, Uppaluri R, Drake CG, Califano A, Kim YJ. 2022. Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict Immunotherapy Response in Head and Neck Cancer. Clin Cancer Res. 28(10):2094-2109. <br>
-[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35262677)- Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35262677)
+- Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35058328)
 [[Full Paper]](/resources/publications/Zhou_JITC_2022.pdf)
 

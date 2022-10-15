@@ -12,6 +12,10 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2022
+- Zeng Z#, Gu SS#, Ouardaoui N, Tymm C, Yang L, Wong CJ, Li D, Zhang W, Wang X, Weirather JL, Rodig SJ, Hodi FS*, Brown M*, **Liu XS**\*. 2022. Hippo signaling pathway regulates cancer cell-intrinsic MHC-II expression. Cancer Immunol Res. CIR-22-0227. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36240281)
+- Zeng Z#, Gu SS#, Wong CJ, Yang L, Ouardaoui N, Li D, Zhang W, Brown M, **Liu XS**. 2022. Machine learning on syngeneic mouse tumor profiles to model clinical immunotherapy response. Sci Adv. 8(41):eabm8564. <br>
+[[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36219700)
 - Lynch AW#, Theodoris CV#, Long HW, Brown M, **Liu XS**\*, Meyer CA*. 2022. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods. 19(9):1097-1108. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36068320)
 - Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, **Liu XS**. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>

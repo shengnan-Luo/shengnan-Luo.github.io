@@ -2,7 +2,7 @@
 title: yi_zhang
 layout: people
 permalink: /people/yi_zhang
-status: Computational Postdoc
+status: Postdoc
 pname: Yi Zhang, PhD
 position: Computational Postdoc
 office: 

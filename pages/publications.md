@@ -11,6 +11,10 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=8XNfVuc
 Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/public/)<br>
 \# Co-first authors; \* Co-corresponding authors
 
+## 2023
+- Soto-Feliciano YM#, Sánchez-Rivera FJ#, Perner F#, Barrows DW, Kastenhuber ER, Ho YJ, Carroll T, Xiong Y, Anand D, Soshnev AA, Gates L, Beytagh MC, Cheon D, Gu S, **Liu XS**, Krivtsov AV, Meneses M, de Stanchina E, Stone RM, Armstrong SA\*, Lowe SW\*, Allis CD\*. 2023. A Molecular Switch between Mammalian MLL Complexes Dictates Response to Menin-MLL Inhibition. Cancer Discov. 13(1):146-169. <br>
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36264143/)
+
 ## 2022
 - Zeng Z#, Gu SS#, Ouardaoui N, Tymm C, Yang L, Wong CJ, Li D, Zhang W, Wang X, Weirather JL, Rodig SJ, Hodi FS*, Brown M*, **Liu XS**\*. 2022. Hippo signaling pathway regulates cancer cell-intrinsic MHC-II expression. Cancer Immunol Res. CIR-22-0227. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36240281)
@@ -27,6 +31,8 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35561684)
 - Aubrey BJ, Cutler JA, Bourgeois W, Donovan KA, Gu S, Hatton C, Perlee S, Perner F, Rahnamoun H, Theall ACP, Henrich JA, Zhu Q, Nowak RP, Kim YJ, Parvin S, Cremer A, Olsen SN, Eleuteri NA, Pikman Y, McGeehan GM, Stegmaier K, Letai A, Fischer ES, **Liu XS**, Armstrong SA. 2022. IKAROS and MENIN coordinate therapeutically actionable leukemogenic gene expression in MLL-r acute myeloid leukemia. Nat Cancer. 3(5):595-613. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35534777)
+- Hu X\*, **Liu XS**\*. 2022. A high-resolution view of intra-tumoral B cell immunity. Immunity. 55(3):387-389. <br>
+[[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35263565/)
 - Obradovic A, Graves D, Korrer M, Wang Y, Roy S, Naveed A, Xu Y, Luginbuhl A, Curry J, Gibson M, Idrees K, Hurley P, Jiang P, **Liu XS**, Uppaluri R, Drake CG, Califano A, Kim YJ. 2022. Immunostimulatory Cancer-Associated Fibroblast Subpopulations Can Predict Immunotherapy Response in Head and Neck Cancer. Clin Cancer Res. 28(10):2094-2109. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35262677)
 - Zhou L#, Zeng Z#, Egloff AM, Guo F, Campbell KM, Du P, Fu J, Zolkind P, Ma X, Zhang Z, Zhang Y, Wang X, Gu S, Riley R, Nakahori Y, Keegan J, Haddad R, Schoenfeld JD, Griffith O, Manguso RT, Lederer JA, **Liu XS**, Uppaluri R\*. 2022. Checkpoint blockade-induced CD+ Tcell differentiation in head and neck cancer responders. J Immunother Cancer. 10(1):e004034. <br>

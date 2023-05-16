@@ -1,6 +1,6 @@
 ---
+title: "Publications"
 layout: default
-title: Publications
 subtitle: Publications in Liu Lab
 permalink: /publication
 ---
@@ -12,20 +12,20 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2023
-- Zhang Y#, Xiang G, Jiang AY, Lynch A, Zeng Z, Wang C, Zhang W, Fan J, Kang J, Gu SS, Wan C, Zhang B, **Liu XS**\*, Brown M*, Meyer CA*.2023. MetaTiME integrates single-cell gene expression to characterize the meta-components of the tumor immune microenvironment. Nat Commun. 2023 May 6;14(1):2634. <br>
+- Zhang Y#, Xiang G, Jiang AY, Lynch A, Zeng Z, Wang C, Zhang W, Fan J, Kang J, Gu SS, Wan C, Zhang B, **Liu XS**\*, Brown M\*, Meyer CA\*.2023. MetaTiME integrates single-cell gene expression to characterize the meta-components of the tumor immune microenvironment. Nat Commun. 2023 May 6;14(1):2634. <br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37149682/)
 
 - Soto-Feliciano YM#, Sánchez-Rivera FJ#, Perner F#, Barrows DW, Kastenhuber ER, Ho YJ, Carroll T, Xiong Y, Anand D, Soshnev AA, Gates L, Beytagh MC, Cheon D, Gu S, **Liu XS**, Krivtsov AV, Meneses M, de Stanchina E, Stone RM, Armstrong SA\*, Lowe SW\*, Allis CD\*. 2023. A Molecular Switch between Mammalian MLL Complexes Dictates Response to Menin-MLL Inhibition. Cancer Discov. 13(1):146-169. <br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36264143/)
 
 ## 2022
-- Zeng Z#, Gu SS#, Ouardaoui N, Tymm C, Yang L, Wong CJ, Li D, Zhang W, Wang X, Weirather JL, Rodig SJ, Hodi FS*, Brown M*, **Liu XS**\*. 2022. Hippo signaling pathway regulates cancer cell-intrinsic MHC-II expression. Cancer Immunol Res. CIR-22-0227. <br>
+- Zeng Z#, Gu SS#, Ouardaoui N, Tymm C, Yang L, Wong CJ, Li D, Zhang W, Wang X, Weirather JL, Rodig SJ, Hodi FS\*, Brown M\*, **Liu XS**\*. 2022. Hippo signaling pathway regulates cancer cell-intrinsic MHC-II expression. Cancer Immunol Res. CIR-22-0227. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36219700)
-- Zeng Z#, Gu SS#, Wong CJ, Yang L, Ouardaoui N, Li D, Zhang W, Brown M, **Liu XS**. 2022. Machine learning on syngeneic mouse tumor profiles to model clinical immunotherapy response. Sci Adv. 8(41):eabm8564. <br>
+- Zeng Z#, Gu SS#, Wong CJ, Yang L, Ouardaoui N, Li D, Zhang W, Brown M, **Liu XS**\*. 2022. Machine learning on syngeneic mouse tumor profiles to model clinical immunotherapy response. Sci Adv. 8(41):eabm8564 <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36240281)
 - Lynch AW#, Theodoris CV#, Long HW, Brown M, **Liu XS**\*, Meyer CA*. 2022. MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells. Nat Methods. 19(9):1097-1108. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/36068320)
-- Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, **Liu XS**. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
+- Song L, Ouyang Z, Cohen D, Cao Y, Altreuter J, Bai G, Hu X, Livak KJ, Li H, Tang M, Li B, **Liu XS**\*. 2022. Comprehensive Characterizations of Immune Receptor Repertoire in Tumors and Cancer Immunotherapy Studies. Cancer Immunol Res. 10(7):788-799. <br>
 [[Abstract]](https://www.ncbi.nlm.nih.gov/pubmed/35605261)
 - Hu X\*, **Liu XS**\*. 2022. A high-resolution view of intra-tumoral B cell immunity. Immunity. 55(3):387-389. <br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/35263565/)

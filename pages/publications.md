@@ -14,7 +14,6 @@ Click here for Complete [PubMed Bibliography](https://www.ncbi.nlm.nih.gov/myncb
 ## 2023
 - Zhang Y#, Xiang G, Jiang AY, Lynch A, Zeng Z, Wang C, Zhang W, Fan J, Kang J, Gu SS, Wan C, Zhang B, **Liu XS**\*, Brown M\*, Meyer CA\*.2023. MetaTiME integrates single-cell gene expression to characterize the meta-components of the tumor immune microenvironment. Nat Commun. 2023 May 6;14(1):2634. <br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37149682/)
-
 - Soto-Feliciano YM#, Sánchez-Rivera FJ#, Perner F#, Barrows DW, Kastenhuber ER, Ho YJ, Carroll T, Xiong Y, Anand D, Soshnev AA, Gates L, Beytagh MC, Cheon D, Gu S, **Liu XS**, Krivtsov AV, Meneses M, de Stanchina E, Stone RM, Armstrong SA\*, Lowe SW\*, Allis CD\*. 2023. A Molecular Switch between Mammalian MLL Complexes Dictates Response to Menin-MLL Inhibition. Cancer Discov. 13(1):146-169. <br>
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/36264143/)
 

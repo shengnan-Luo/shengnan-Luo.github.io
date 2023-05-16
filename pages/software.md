@@ -13,6 +13,10 @@ permalink: /software/
 ### Single Cell 
 - [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
 Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
+- [**MetaTiME**](https://github.com/yi-zhang/MetaTiME) &nbsp;
+Meta-components in Tumor immune MicroEnvironment: MetaTiME learns data-driven, interpretable, and reproducible gene programs by integrating millions of single cells from hundreds of tumor scRNA-seq data.
+- [**MIRA**](https://github.com/cistrome/MIRA) &nbsp;
+Multimodal models for Integrated Regulatory Analysis, or MIRA, is a python package for analyzing the dynamic processes of gene regulation using single-cell multiomics datasets.
 
 ### Cancer Immunotherapy
 - [**TIMER**](https://cistrome.shinyapps.io/timer/) &nbsp; and [**TIMER2**](http://timer.cistrome.org/) &nbsp; [[**TIMER2 (Korea)**]](http://timer.comp-genomics.org/) &nbsp; [[**TIMER2 (China)**]](http://timer2.compbio.cn/) &nbsp; Tumor IMmune Estimation Resource (TIMER) is a comprehensive resource for the clinical relevance of tumor-immune infiltrates, including B cells, CD4 and CD8 T cells, neutrophils, macrophages and dendritic cells.
@@ -21,6 +25,8 @@ is a computational algorithm that can extract TCR/BCR immune repertoires from tu
 - [**DeepBCR**](https://bitbucket.org/liulab/deepbcr/src/master/) &nbsp; Deep learning framework for cancer-type classification and binding affinity estimation using B cell receptor repertoires
 - [**TIDE**](http://tide.dfci.harvard.edu/) &nbsp;
 TIDE is a gene expression biomarker to predict the clinical response to immune checkpoint blockade. TIDE also provides gene-wise associations with T-cell dysfunction and immunotherapy resistance, computed from a large amount of cancer genomics datasets.
+- [**TISMO**](http://tismo.cistrome.org/) &nbsp;
+Tumor Immune Syngeneic MOuse (TISMO) is a database specifically designed for hosting, visualizing, and analyzing an extensive collection of syngeneic mouse model data.
 
 ### Cancer Precision Medicine
 - [**CARE**](http://care.dfci.harvard.edu/) &nbsp;

@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Liu Lab
+title: Li Lab
 
 # Short description of your site
-description: Xiaole Shirley Liu Lab at DFCI
+description: Shengli Li Lab at SJTU
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,13 +21,10 @@ description: Xiaole Shirley Liu Lab at DFCI
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Software: "software"
-  News & Events: "news"
   People: "people"
   Publications: "publication"
   Teaching: "teaching"
-  Careers: "careers"
-  Contact: "contact"
+  Resources: "resources"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -68,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Xiaole Shirley Liu Lab
+  name: Shengli Li Lab
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -78,8 +75,8 @@ social-network-links:
   rss: false
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: liulab-dfci
-  twitter: xshirleyliu
+  github: shengnan-Luo
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

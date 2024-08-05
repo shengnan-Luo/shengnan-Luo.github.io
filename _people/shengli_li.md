@@ -4,8 +4,8 @@ layout: people
 permalink: /people/shengli_li
 status: Principle Investigator
 pname: Shengli Li, PhD
-position: 
-office: Shanghai Jiao Tong University School of Medicine: Shanghai, CN
+position: Principle Investigator, 2020-2024
+office: 
 eml: shengli.li@sjtu.edu.cn
 website:
 cv: 

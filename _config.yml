@@ -24,6 +24,7 @@ navbar-links:
   People: "people"
   Publications: "publication"
   Resources: "resources"
+   - LncPep: "http://www.shenglilabs.com/LncPep/#!/"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

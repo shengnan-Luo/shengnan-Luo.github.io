@@ -24,7 +24,6 @@ navbar-links:
   People: "people"
   Publications: "publication"
   Resources: "resources"
-   - LncPep: "http://www.shenglilabs.com/LncPep/#!/"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -72,8 +71,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-#  email: "someone@example.com"
+# rss: false
+  email: "shengli.li@sjtu.edu.cn"
 #  facebook: deanattali
   github: shengnan-Luo
   twitter: 

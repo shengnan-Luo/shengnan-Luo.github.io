@@ -1,7 +1,7 @@
 ---
 title: yuanlong_feng
 layout: people
-permalink: /people/yuanlongfeng
+permalink: /people/yuanlong_feng
 status: Postgraduate student
 pname: Feng Yuanlong
 position: Postgraduate student

@@ -8,7 +8,7 @@ position: Postgraduate student
 office: 
 eml: luoshengnan02{AT}163.com
 website:
-cv: 
+cv: _people/罗圣南-个人简历.pdf
 github:
 linkedin:
 google_scholar: 

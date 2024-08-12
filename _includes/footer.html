@@ -25,22 +25,28 @@
             </li>
           {%- endfor -%}
           
-          <!-- WeChat link and QR code -->
-          <li>
-            <span>WeChat</span>
-            <img src="{{ 'img/Li_Lab_Logo.png' | relative_url }}" alt="WeChat QR Code" style="width:100px; height:auto;">
-          </li>
-        </ul>
-
-        <!-- Footer links section -->
+    <div class="row">
+      
+      <!-- WeChat and QR Code on the left -->
+      <div class="col-md-6 text-left">
+       <span style="font-size: smaller;">WeChat</span>
+        <img src="{{ 'img/Li_Lab_Logo.png' | relative_url }}" alt="WeChat QR Code" style="width:100px; height:auto; display:inline-block; margin-left:10px;">
+      </div>
+      
+      <!-- Friend links on the right -->
+      <div class="col-md-6 text-right">
         <div class="footer-links">
-          <p>友情链接:</p>
-          <ul class="list-inline text-center">
-            <li><a href="https://www.sjtu.edu.cn/" target="_blank">Link 1</a></li>
-            <li><a href="https://www.shsmu.edu.cn/" target="_blank">Link 2</a></li>
-            <li><a href="https://www.bilibili.com" target="_blank">Link 3</a></li>
+          <p style="font-size: smaller;">友情链接:</p>
+          <ul class="list-unstyled">
+            <li><a href="https://www.sjtu.edu.cn" target="_blank" style="font-size: smaller;"></a>上海交通大学</a></li>
+            <li><a href="https://www.shsmu.edu.cn" target="_blank" style="font-size: smaller;">上海交通大学医学院</a></li>
+            <li><a href="https://https://www.firsthospital.cn/home/index.html" target="_blank" style="font-size: smaller;">上海市第一人民医院</a></li>
           </ul>
         </div>
+      </div>
+      
+    </div>
+
 
         <!-- Copyright section -->
         <p class="copyright text-muted">

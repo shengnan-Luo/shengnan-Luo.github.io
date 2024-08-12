@@ -25,27 +25,47 @@
             </li>
           {%- endfor -%}
           
+<footer style="background-color: #343a40; padding: 20px 0; color: #777777;">
+  <div class="container beautiful-jekyll-footer">
     <div class="row">
-      
-      <!-- WeChat and QR Code on the left -->
-      <div class="col-md-6 text-left">
-       <span style="font-size: smaller;">WeChat</span>
-        <img src="{{ 'img/Li_Lab_Logo.png' | relative_url }}" alt="WeChat QR Code" style="width:100px; height:auto; display:inline-block; margin-left:10px;">
+
+      <!-- 联系我们 (Contact Us) -->
+      <div class="col-md-4">
+        <h4>联系我们</h4>
+        <p>
+          <i class="fa fa-map-marker" aria-hidden="true"></i> 闵行基地: 上海市闵行区东川路800号<br>
+          <i class="fa fa-map-marker" aria-hidden="true"></i> 瑞金基地: 上海市黄浦区瑞金二路197号
+        </p>
+        <p>Copyright © 上海交通大学转化医学研究院</p>
       </div>
-      
-      <!-- Friend links on the right -->
-      <div class="col-md-6 text-right">
-        <div class="footer-links">
-          <p style="font-size: smaller;">友情链接:</p>
-          <ul class="list-unstyled">
-            <li><a href="https://www.sjtu.edu.cn" target="_blank" style="font-size: smaller;"></a>上海交通大学</a></li>
-            <li><a href="https://www.shsmu.edu.cn" target="_blank" style="font-size: smaller;">上海交通大学医学院</a></li>
-            <li><a href="https://https://www.firsthospital.cn/home/index.html" target="_blank" style="font-size: smaller;">上海市第一人民医院</a></li>
-          </ul>
-        </div>
+
+      <!-- 常用链接 (Common Links) -->
+      <div class="col-md-4">
+        <h4>常用链接</h4>
+        <ul class="list-unstyled">
+          <li><a href="www.sjtu.edu.cn" style="color: #ffffff;">上海交通大学首页</a></li>
+          <li><a href="https://www.shsmu.edu.cn/" style="color: #ffffff;">上海交通大学医学院</a></li>
+          <li><a href="https://www.firsthospital.cn/home/index.html" style="color: #ffffff;">上海市第一人民医院</a></li>
+        </ul>
       </div>
-      
+
+      <!-- 关注我们 (Follow Us) -->
+      <div class="col-md-4">
+        <h4>关注我们</h4>
+        <p>
+          <i class="fa fa-weixin" aria-hidden="true"></i> 微信号<br>
+          生信螃蟹 Zhhuayixue_SJTU
+        </p>
+        <img src="{{ 'img/Li_Lab_Logo.png' | relative_url }}" alt="WeChat QR Code" style="width: 120px; height:auto;">
+        <p>
+          <i class="fa fa-envelope" aria-hidden="true"></i> 邮箱<br>
+          <a href="mailto:user.tm@sjtu.edu.cn" style="color: #ffffff;">user.tm@sjtu.edu.cn</a>
+        </p>
+      </div>
+
     </div>
+  </div>
+</footer>
 
 
         <!-- Copyright section -->

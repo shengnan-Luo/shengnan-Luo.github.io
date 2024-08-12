@@ -273,6 +273,20 @@ footer {
   {% endif %}
 }
 
+footer .footer-contact h4 {
+  margin-bottom: 5px; /* 减少标题与段落之间的间距 */
+}
+
+footer .footer-contact p {
+  margin-bottom: 2px; /* 减少段落之间的间距 */
+  padding: 0; /* 移除默认内边距 */
+  line-height: 1.4; /* 调整行高以减少空白 */
+}
+
+footer .footer-contact i {
+  margin-right: 5px; /* 调整图标与文本之间的间距 */
+}
+
 footer p.text-muted {
   color: {{ site.footer-text-col }};
 }

@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: false
-  email: "shengli.li@sjtu.edu.cn"
+#  email: "shengli.li@sjtu.edu.cn"
 #  facebook: deanattali
-  github: shengnan-Luo
-  twitter: 
+#  github: shengnan-Luo
+#  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

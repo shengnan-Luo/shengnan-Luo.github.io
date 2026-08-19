@@ -123,6 +123,9 @@ export default function Navigation({
   const getDesktopItemHref = (item: SiteConfig['navigation'][number]) =>
     enableOnePageMode ? `/#${item.target}` : item.href;
 
+  const getDocumentHref = (href: string) =>
+    href === '/' || href.endsWith('/') ? href : `${href}/`;
+
   const activeItem = effectiveItems.find((item) => isDesktopItemActive(item)) ?? null;
   const activeHref = activeItem ? getDesktopItemHref(activeItem) : null;
   const indicatorHref = hoveredHref ?? activeHref;
@@ -181,6 +184,11 @@ export default function Navigation({
                 >
                   <Link
                     href="/"
+                    prefetch={false}
+                    onClick={(event) => {
+                      event.preventDefault();
+                      window.location.assign('/');
+                    }}
                     className="text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
                   >
                     {effectiveSiteTitle}
@@ -225,8 +233,16 @@ export default function Navigation({
                             key={item.target}
                             href={href}
                             data-nav-href={href}
-                            prefetch={true}
-                            onClick={() => enableOnePageMode && setActiveHash(`#${item.target}`)}
+                            prefetch={false}
+                            aria-current={isActive ? 'page' : undefined}
+                            onClick={(event) => {
+                              if (enableOnePageMode) {
+                                setActiveHash(`#${item.target}`);
+                                return;
+                              }
+                              event.preventDefault();
+                              window.location.assign(getDocumentHref(href));
+                            }}
                             onMouseEnter={() => setHoveredHref(href)}
                             className={cn(
                               'relative px-3 py-2 text-sm font-medium rounded-lg transition-colors duration-150',
@@ -300,8 +316,16 @@ export default function Navigation({
                           <Disclosure.Button
                             as={Link}
                             href={href}
-                            prefetch={true}
-                            onClick={() => enableOnePageMode && setActiveHash(item.href === '/' ? '' : `#${item.target}`)}
+                            prefetch={false}
+                            aria-current={isActive ? 'page' : undefined}
+                            onClick={(event) => {
+                              if (enableOnePageMode) {
+                                setActiveHash(item.href === '/' ? '' : `#${item.target}`);
+                                return;
+                              }
+                              event.preventDefault();
+                              window.location.assign(getDocumentHref(href));
+                            }}
                             className={cn(
                               'block px-3 py-2 rounded-md text-base font-medium transition-all duration-200',
                               isActive

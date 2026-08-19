@@ -230,15 +230,22 @@ export default function PublicationsList({ config, publications, embedded = fals
                                             </span>
                                         ))}
                                     </p>
-                                    <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {[
-                                            pub.journal || pub.conference,
-                                            pub.publishedDate || (pub.year > 0 ? String(pub.year) : ''),
-                                            pub.volume
-                                                ? `${pub.volume}${pub.issue ? `(${pub.issue})` : ''}${pub.pages ? `:${pub.pages}` : ''}`
-                                                : pub.pages,
-                                        ].filter(Boolean).join(' · ')}
-                                    </p>
+                                    <div className="flex flex-wrap items-center gap-2 mb-3 text-sm font-medium text-neutral-800 dark:text-neutral-600">
+                                        <span>
+                                            {[
+                                                pub.journal || pub.conference,
+                                                pub.year > 0 ? String(pub.year) : '',
+                                                pub.volume
+                                                    ? `${pub.volume}${pub.issue ? `(${pub.issue})` : ''}${pub.pages ? `:${pub.pages}` : ''}`
+                                                    : pub.pages,
+                                            ].filter(Boolean).join(' · ')}
+                                        </span>
+                                        {pub.publishedDate && (
+                                            <span className="inline-flex rounded-full bg-accent/10 px-2.5 py-1 text-xs font-semibold text-accent-dark dark:text-accent-light">
+                                                {pub.publishedDate}
+                                            </span>
+                                        )}
+                                    </div>
 
                                     {pub.description && (
                                         <p className="text-sm text-neutral-600 dark:text-neutral-500 mb-4 line-clamp-3">

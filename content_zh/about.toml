@@ -19,3 +19,9 @@ type = "publications"
 title = "精选论文"
 filter = "selected"
 limit = 5
+
+[[sections]]
+id = "awards_and_honors"
+type = "list"
+source = "honors.toml"
+title = "奖项与荣誉"

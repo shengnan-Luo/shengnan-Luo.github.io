@@ -19,3 +19,9 @@ type = "publications"
 title = "Selected Publications"
 filter = "selected"
 limit = 5
+
+[[sections]]
+id = "awards_and_honors"
+type = "list"
+source = "honors.toml"
+title = "Awards and Honors"

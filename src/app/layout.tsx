@@ -22,9 +22,8 @@ export async function generateMetadata(): Promise<Metadata> {
     keywords: [
       config.author.name,
       config.author.title,
-      'Cancer Genomics',
-      'Machine Learning',
-      'Precision Medicine',
+      'Biomedical Applications of Large Language Models',
+      'Integrative Multi-omics',
       config.author.institution,
     ],
     authors: [{ name: config.author.name }],

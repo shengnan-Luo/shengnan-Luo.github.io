@@ -3,10 +3,8 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Cancer Genomics",
-  "Machine Learning",
-  "Precision Medicine",
-  "Applications of Large Language Models in Biomedicine"
+  "Biomedical Applications of Large Language Models",
+  "Integrative Multi-omics"
 ]
 
 [[sections]]
@@ -21,4 +19,3 @@ type = "publications"
 title = "Selected Publications"
 filter = "selected"
 limit = 5
-

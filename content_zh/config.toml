@@ -9,10 +9,9 @@ title = "硕士研究生"
 institution = "上海交通大学医学院"
 
 [social]
-location = "中国上海"
+location = "650 Xin Songjiang Road, Songjiang District, Shanghai, China"
 location_details = [
-  "上海交通大学医学院，",
-  "中国上海"
+  "650 Xin Songjiang Road, Songjiang District, Shanghai, China"
 ]
 
 [[navigation]]
@@ -26,6 +25,12 @@ title = "论文"
 type = "page"
 target = "publications"
 href = "/publications"
+
+[[navigation]]
+title = "奖项"
+type = "page"
+target = "awards"
+href = "/awards"
 
 [[navigation]]
 title = "简历"

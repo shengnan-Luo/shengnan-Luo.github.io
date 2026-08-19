@@ -1,26 +1,7 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Shanghai Jiao Tong University School of Medicine**, Master's Student
+- Member of Shengli Li's lab
+- Research interests: cancer genomics, machine learning, precision medicine, and applications of large language models in biomedicine
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
-
-## Experience
-
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
-
-## Skills
-
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
-
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+**Northeast Forestry University, College of Life Science**, B.S., *2024*

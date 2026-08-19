@@ -1,4 +1,4 @@
 type = "publication"
 title = "论文"
-description = "我的研究成果列表。"
+description = "癌症基因组学与计算生物医学相关研究成果。带下划线的作者为共同贡献作者，† 表示通讯作者。"
 source = "publications.bib"

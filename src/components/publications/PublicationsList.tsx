@@ -34,7 +34,7 @@ export default function PublicationsList({ config, publications, embedded = fals
 
     // Extract unique years and types for filters
     const years = useMemo(() => {
-        const uniqueYears = Array.from(new Set(publications.map(p => p.year)));
+        const uniqueYears = Array.from(new Set(publications.filter(p => p.year > 0).map(p => p.year)));
         return uniqueYears.sort((a, b) => b - a);
     }, [publications]);
 
@@ -231,7 +231,13 @@ export default function PublicationsList({ config, publications, embedded = fals
                                         ))}
                                     </p>
                                     <p className="text-sm font-medium text-neutral-800 dark:text-neutral-600 mb-3">
-                                        {pub.journal || pub.conference} {pub.year}
+                                        {[
+                                            pub.journal || pub.conference,
+                                            pub.publishedDate || (pub.year > 0 ? String(pub.year) : ''),
+                                            pub.volume
+                                                ? `${pub.volume}${pub.issue ? `(${pub.issue})` : ''}${pub.pages ? `:${pub.pages}` : ''}`
+                                                : pub.pages,
+                                        ].filter(Boolean).join(' · ')}
                                     </p>
 
                                     {pub.description && (

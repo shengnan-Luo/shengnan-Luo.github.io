@@ -1,29 +1,24 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Shengnan Luo"
+description = "Master's student at Shanghai Jiao Tong University School of Medicine."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "August 19, 2026"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
+name = "Shengnan Luo"
+title = "Master's Student"
+institution = "Shanghai Jiao Tong University School of Medicine"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+location = "Shanghai, China"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Shanghai Jiao Tong University School of Medicine,",
+  "Shanghai, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+github = "https://github.com/shengnan-Luo"
 
 [features]
 # Show a like button on the about page
@@ -59,12 +54,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
 
 [[navigation]]
 title = "CV"

@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a master's student in [Shengli Li's lab](https://lishenglilab.github.io/) at Shanghai Jiao Tong University School of Medicine. I received my B.S. from the College of Life Science at Northeast Forestry University in 2024.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research focuses on cancer genomics, machine learning, precision medicine, and applications of large language models in biomedicine.

@@ -47,7 +47,8 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
     const authors = parseAuthors(tags.author || '', highlightNames);
 
     // Parse year and month
-    const year = parseInt(tags.year) || new Date().getFullYear();
+    const parsedYear = parseInt(tags.year, 10);
+    const year = Number.isNaN(parsedYear) ? 0 : parsedYear;
     const monthStr = tags.month?.toLowerCase() || '';
     const month = monthMapping[monthStr] || (parseInt(monthStr) || undefined);
 
@@ -84,16 +85,17 @@ export function parseBibTeX(bibtexContent: string, locale?: string): Publication
       volume: tags.volume,
       issue: tags.number,
       pages: tags.pages,
+      publishedDate: cleanBibTeXString(tags.publication_status || tags.note),
       doi: tags.doi,
       url: tags.url,
       code: tags.code,
       abstract: cleanBibTeXString(tags.abstract),
-      description: cleanBibTeXString(tags.description || tags.note),
+      description: cleanBibTeXString(tags.description),
       selected,
       preview,
 
       // Store original BibTeX (excluding custom fields)
-      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code']),
+      bibtex: reconstructBibTeX(entry, ['selected', 'preview', 'description', 'keywords', 'code', 'publication_status']),
     };
 
     // Clean up undefined fields

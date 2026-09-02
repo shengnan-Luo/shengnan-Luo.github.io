@@ -1,4 +1,4 @@
 type = "publication"
 title = "Publications"
-description = "Research publications in cancer genomics and computational biomedicine. Underlined authors contributed equally; † indicates a corresponding author."
+description = "Research publications in computational biomedicine and multi-omics. Underlined authors contributed equally; † indicates a corresponding author."
 source = "publications.bib"
